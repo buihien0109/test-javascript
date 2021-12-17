@@ -33,6 +33,7 @@ Xem chi tiết [tại đây](./test03-student-api/README.md)
 
 ### Tham khảo
 
+-   [Sử dụng Javascript Form Validation](https://techmaster.vn/posts/36518/su-dung-javascript-form-validation)
 -   [Ứng dụng todolist + Kết nối API : Khởi tạo server (Phần 1)](https://techmaster.vn/posts/36848/ung-dung-todolist-ket-noi-api-khoi-tao-server-phan-1)
 -   [Ứng dụng todolist + Kết nối API : Lập trình chức năng (Phần 2)](https://techmaster.vn/posts/36849/ung-dung-todolist-ket-noi-api-lap-trinh-chuc-nang-phan-2)
 -   [Ứng dụng todolist + Kết nối API : Lập trình chức năng (Phần 3)](https://techmaster.vn/posts/36861/ung-dung-todolist-ket-noi-api-lap-trinh-chuc-nang-phan-3)
